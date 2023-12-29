@@ -23,7 +23,7 @@ I'm always open to collaboration and learning from others. Feel free to fork my 
 
 ** Connect with me:**
 
-GitHub: @DeborahJones: link
+
 LinkedIn: @DeborahJones: [link](https://www.linkedin.com/in/deborahmunyoki/)
-Twitter: @DeborahJonesTech: link
+
 **☕️ Happy coding! **
