@@ -4,10 +4,7 @@
 
 Here's what you'll find inside:
 
-Projects:
-Project Name 1: link: A brief description of the project and its features.
-Project Name 2: link: A brief description of the project and its features.
-...and more to come!
+
 Experiments: A collection of smaller code snippets and experiments as I try out new things.
 Learning Resources: A list of books, tutorials, and articles that have helped me along my coding journey.
 ️ Technologies I'm currently exploring:
